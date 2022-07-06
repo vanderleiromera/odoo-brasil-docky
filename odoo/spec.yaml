@@ -1,8 +1,6 @@
 odoo:
-  remotes:
-    origin: https://github.com/oca/ocb
-  merges:
-    - origin 14.0
+    src: https://github.com/oca/ocb 14.0
+    depth: 1   
 
 account-payment:
     src: https://github.com/oca/account-payment 14.0

@@ -1,0 +1,11 @@
+UID=1000
+ENV=dev
+COMPOSE_FILE=docker-compose.yml:dev.docker-compose.yml
+COMPOSE_PROJECT_NAME=vanderlei_odoo-brasil-docky
+
+PGHOST=
+PGDATABASE=
+PGUSER=
+DB_USER= 
+PGPASSWORD=
+ADMIN_PASSWD=
